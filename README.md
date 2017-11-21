@@ -1,5 +1,5 @@
 # What is Blockchain? 
-* Video : Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
+* Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
 https://youtu.be/bBC-nXj3Ng4 by 3Blue1Brown
 * Le Bitcoin et la Blockchain (avec Heu?Reka) — Science étonnante #31 
 https://youtu.be/du34gPopY5Y
@@ -49,7 +49,8 @@ Blockchain  (15')
 following hash generated and re-doing all the computaional work to validate the hash. 
 ```
 
-# Blockchain and AI https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
+# Blockchain and AI 
+* https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
 
 ```
 Examples of AI working with Blockchain 
