@@ -54,7 +54,7 @@ following hash generated and re-doing all the computaional work to validate the 
 * Openmined : Decentralized Marketplace for Data :  https://youtu.be/HAC6sqq7_-U 
 * OpenMined Introduction : https://youtu.be/sXFmKquiVnk
 * NumerAI : Decentralized AI Hedge Fund: https://medium.com/numerai
-* ...Future : Self Driving Car Network 
+* Near future Self Driving Car Network : http://bit.ly/2zZeAlb
 
 # Distributed concensus algorithms 
 * Code of the proof of work algorithm on GitHub: http://bit.ly/2jcRfSZ
