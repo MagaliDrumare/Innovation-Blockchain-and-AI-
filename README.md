@@ -50,7 +50,7 @@ following hash generated and re-doing all the computaional work to validate the 
 ```
 
 # Blockchain and AI 
-* https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
+* Blockchain Consensus Algorithms and Artificial Intelligence by Siraj Raval: https://youtu.be/5Tr13l0O1Ws 
 * Openmined : Decentralized Marketplace for Data https://youtu.be/HAC6sqq7_-U
 * NumerAI : Decentralized AI Hedge Fund  https://medium.com/numerai/an-ai-hedge-fund-goes-live-on-ethereum-a80470c6b681
 * Future : Self Driving Car Network 
