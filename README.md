@@ -51,7 +51,8 @@ following hash generated and re-doing all the computaional work to validate the 
 
 # Blockchain and AI 
 * Blockchain Consensus Algorithms and Artificial Intelligence by Siraj Raval: https://youtu.be/5Tr13l0O1Ws 
-* Openmined : Decentralized Marketplace for Data :  https://youtu.be/HAC6sqq7_-U
+* Openmined : Decentralized Marketplace for Data :  https://youtu.be/HAC6sqq7_-U 
+* OpenMined Introduction : https://youtu.be/sXFmKquiVnk
 * NumerAI : Decentralized AI Hedge Fund: https://medium.com/numerai
 * ...Future : Self Driving Car Network 
 
