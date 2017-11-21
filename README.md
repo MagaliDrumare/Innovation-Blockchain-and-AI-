@@ -51,15 +51,14 @@ following hash generated and re-doing all the computaional work to validate the 
 
 # Blockchain and AI 
 * https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
+* Openmined : Decentralized Marketplace for Data https://youtu.be/HAC6sqq7_-U
+* NumerAI : Decentralized AI Hedge Fund  https://medium.com/numerai/an-ai-hedge-fund-goes-live-on-ethereum-a80470c6b681
+* Future : Self Driving Car Network 
 
 ```
-Examples of AI working with Blockchain 
--Openmined : Decentralized Marketplace for Data https://youtu.be/HAC6sqq7_-U
--NumerAI : Decentralized AI Hedge Fund  https://medium.com/numerai/an-ai-hedge-fund-goes-live-on-ethereum-a80470c6b681
--Future : Self Driving Car Network 
-
 Distributed concensus algorithm 
-Proof of work algorithm 
+-------------------------------
+Proof of work algorithm : 
 -A miner retrieve group of transactions from pending transactions to be validated 
 -process work to generate proof 
 -broadcast the proof of work to all nodes 
