@@ -1,6 +1,6 @@
 # What is Blockchain? 
-* Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
-https://youtu.be/bBC-nXj3Ng4 by 3Blue1Brown
+* Ever wonder how Bitcoin (and other cryptocurrencies) actually work by 3Blue1Brown?
+https://youtu.be/bBC-nXj3Ng4 
 * Le Bitcoin et la Blockchain (avec Heu?Reka) — Science étonnante #31 
 https://youtu.be/du34gPopY5Y
 
