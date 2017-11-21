@@ -53,16 +53,17 @@ following hash generated and re-doing all the computaional work to validate the 
 * Blockchain Consensus Algorithms and Artificial Intelligence by Siraj Raval: https://youtu.be/5Tr13l0O1Ws 
 * Openmined : Decentralized Marketplace for Data https://youtu.be/HAC6sqq7_-U
 * NumerAI : Decentralized AI Hedge Fund  https://medium.com/numerai/an-ai-hedge-fund-goes-live-on-ethereum-a80470c6b681
-* Future : Self Driving Car Network 
+* ...Future : Self Driving Car Network 
+
+# Distributed concensus algorithms 
+* Code of the proof of work algorithm on GitHub: http://bit.ly/2jcRfSZ
+* Others algorithm Proof of stake Proof of activity Proof of burn : https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
 
 ```
-Distributed concensus algorithm 
--------------------------------
-Proof of work algorithm : 
+4 steps to validate a transaction 
+---------------------------------
 -A miner retrieve group of transactions from pending transactions to be validated 
--process work to generate proof 
+-process work to generate proof (solve the algorithm)
 -broadcast the proof of work to all nodes 
 -write transactions into the blockchain if proof of work is valid for the majority of nodes 
--others algorithm Proof of stake Proof of activity Proof of burn
--https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
 ```
