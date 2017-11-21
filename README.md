@@ -1,12 +1,10 @@
 # What is Blockchain? 
-
-```
-Video : Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
+* Video : Ever wonder how Bitcoin (and other cryptocurrencies) actually work?
 https://youtu.be/bBC-nXj3Ng4 by 3Blue1Brown
-Le Bitcoin et la Blockchain (avec Heu?Reka) — Science étonnante #31 
+* Le Bitcoin et la Blockchain (avec Heu?Reka) — Science étonnante #31 
 https://youtu.be/du34gPopY5Y
 
-
+```
 Need to register the transaction 
 --------------------------------
 -Simple ledger hosted on a website
@@ -51,10 +49,9 @@ Blockchain  (15')
 following hash generated and re-doing all the computaional work to validate the hash. 
 ```
 
-```
-Video : Blockchain and AI 
-https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
+# Blockchain and AI https://youtu.be/5Tr13l0O1Ws by Siraj Raval 
 
+```
 Examples of AI working with Blockchain 
 -Openmined : Decentralized Marketplace for Data https://youtu.be/HAC6sqq7_-U
 -NumerAI : Decentralized AI Hedge Fund  https://medium.com/numerai/an-ai-hedge-fund-goes-live-on-ethereum-a80470c6b681
