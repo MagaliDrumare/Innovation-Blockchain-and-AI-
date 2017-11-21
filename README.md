@@ -43,10 +43,11 @@ Blockchain  (15')
 -Each block has a proof of work. A block is valid if he has a proof of work. 
 -Each Leadger is passed into a SHA256 and produce a hash 
 -Computational problem : for example to find what can be the input of the hash function if the 30 or 60 first bits = 0 ? 
--The first miner (computing power) to find the solution (the proof of work) validate its block and add it to the blockchain. One block is generated every 10 minutes. 
+-The first miner (computing power) to find the solution (the proof of work) validate its block and add it to the blockchain. 
+One block is generated every 10 minutes. 
 -The previous hash is transmitted to the next block. 
 -Its impossible to change a past transaction without changing all the 
-following hash generated and re-doing all the computaional work to validate the hash. 
+following hash generated and re-doing all the computational work to validate the hash. 
 ```
 
 # Blockchain and AI 
